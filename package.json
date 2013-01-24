@@ -1,0 +1,22 @@
+{
+	"name": "anvil.plato",
+	"version": "0.1.0",
+	"description": "Plato analysis tool for anvil",
+	"main": "lib/plato.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/anviljs/anvil.plato"
+	},
+	"keywords": [
+		"anvil",
+		"plato",
+		"code",
+		"analysis"
+	],
+	"author": "Alex Robson",
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"plato": "~0.4.3"
+	}
+}
